@@ -18,6 +18,6 @@
 <li> Screening </li>
 <li> Concurrency </li>
 <br><br>
-*Reference Leetcode and Back to Back SWE<br><b>Back to Back SWE</b> is really helpful with their awesome explanation of coding questions and deep algorithm understanding. I highly recommend*
+Reference Leetcode and Back to Back SWE<br><b>Back to Back SWE</b> is really helpful with their awesome explanation of coding questions and deep algorithm understanding. I highly recommend*
 
 
