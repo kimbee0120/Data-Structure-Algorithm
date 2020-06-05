@@ -35,7 +35,7 @@ class Check_number_Palindrome2
 
             x = x%mask_val; //remove first place of x;
             x = x/10; //remove last place of x;
-            mask = mask/100 // first and last integer removed. mask value need to remove 2 0's
+            mask_val = mask_val/100; // first and last integer removed. mask value need to remove 2 0's
         }
 
         return true;
