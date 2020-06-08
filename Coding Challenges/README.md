@@ -1,13 +1,17 @@
-## <b>Data Structure & Algorithm</b>
-### Contents
-<li> Resume </li>
-<li> Time and Space Complexity</li>
-<li> Coding Challenges</li>
-
-### Contents of questions
+## <b>Coding Challenges</b>
+### <b>Contents</b>
 <li> Easy </li>
-<li> Medium </li>
-<li> Hard </li>
+<li> Medium</li>
+<li> Hard</li>
+
+### <b>Easy</b>
+ <ol>
+ <li> Check If A Number is A Palindrome</li>
+ <li>Reverse Bits</li>
+ </ol>
+ 
+### <b>Medium</b>
+### <b>Hard</b>
 
 
 <br><br>
