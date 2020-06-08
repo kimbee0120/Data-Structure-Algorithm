@@ -36,3 +36,8 @@
          }
      }
  }
+
+ /*******************************************************************************
+  * Time Complexity = O(n) //While loop will can check upto n size in worst case
+  * Space Complexity = O(1) //one constant variable which is the result
+  *******************************************************************************/
