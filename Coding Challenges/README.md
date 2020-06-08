@@ -6,8 +6,9 @@
 
 ### <b>Easy</b>
  <ol>
- <li> Check If A Number is A Palindrome</li>
+ <li>Check If A Number is A Palindrome</li>
  <li>Reverse Bits</li>
+ <li>Power of Two</li>
  </ol>
  
 ### <b>Medium</b>
