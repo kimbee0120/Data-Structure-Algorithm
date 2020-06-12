@@ -14,6 +14,7 @@
 ### <b>Medium</b>
 <ol>
  <li>Changing Base</li>
+ <li>Power of Four</li>
  </ol>
  
 ### <b>Hard</b>
