@@ -9,6 +9,7 @@
  <li>Check If A Number is A Palindrome</li>
  <li>Reverse Bits</li>
  <li>Power of Two</li>
+ <li> Rotating a 2D Matrix</li>
  </ol>
  
 ### <b>Medium</b>
