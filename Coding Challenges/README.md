@@ -10,6 +10,7 @@
  <li>Reverse Bits</li>
  <li>Power of Two</li>
  <li> Rotating a 2D Matrix</li>
+ <li> The 3 sum problem </li>
  </ol>
  
 ### <b>Medium</b>
