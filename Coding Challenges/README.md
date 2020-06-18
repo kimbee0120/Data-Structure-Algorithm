@@ -11,6 +11,7 @@
  <li>Power of Two</li>
  <li> Rotating a 2D Matrix</li>
  <li> The 3 sum problem </li>
+ <li>Enumerate All Primes To N</li>
  </ol>
  
 ### <b>Medium</b>
