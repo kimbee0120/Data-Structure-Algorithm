@@ -12,6 +12,7 @@
  <li> Rotating a 2D Matrix</li>
  <li> The 3 sum problem </li>
  <li>Enumerate All Primes To N</li>
+ <li>Pattern Matching</li>
  </ol>
  
 ### <b>Medium</b>
