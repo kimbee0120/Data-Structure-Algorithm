@@ -13,6 +13,7 @@
  <li> The 3 sum problem </li>
  <li>Enumerate All Primes To N</li>
  <li>Pattern Matching</li>
+ <li>Even Odd Partition</li>
  </ol>
  
 ### <b>Medium</b>
