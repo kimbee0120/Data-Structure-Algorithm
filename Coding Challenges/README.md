@@ -14,6 +14,7 @@
  <li>Enumerate All Primes To N</li>
  <li>Pattern Matching</li>
  <li>Even Odd Partition</li>
+ <li>The Balanced Parentheses Problem</li>
  </ol>
  
 ### <b>Medium</b>
