@@ -15,6 +15,7 @@
  <li>Pattern Matching</li>
  <li>Even Odd Partition</li>
  <li>The Balanced Parentheses Problem</li>
+ <li>Test If A Binary Tree Is Symmetric</li>
  </ol>
  
 ### <b>Medium</b>
