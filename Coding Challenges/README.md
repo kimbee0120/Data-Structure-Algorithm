@@ -22,6 +22,7 @@
 <ol>
  <li>Changing Base</li>
  <li>Power of Four</li>
+ <li>K smallest Elements In An Array</li>
  </ol>
  
 ### <b>Hard</b>
