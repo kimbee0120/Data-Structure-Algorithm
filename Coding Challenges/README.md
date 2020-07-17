@@ -17,6 +17,7 @@
  <li>The Balanced Parentheses Problem</li>
  <li>Test If A Binary Tree Is Symmetric</li>
  <li>Intersection of 2 Sorted Arrays</li>
+ <li> Minimum Item In A Rotated Sorted Array</li>
  </ol>
  
 ### <b>Medium</b>
