@@ -16,6 +16,7 @@
  <li>Even Odd Partition</li>
  <li>The Balanced Parentheses Problem</li>
  <li>Test If A Binary Tree Is Symmetric</li>
+ <li>Intersection of 2 Sorted Arrays</li>
  </ol>
  
 ### <b>Medium</b>
