@@ -25,6 +25,7 @@
  <li>Changing Base</li>
  <li>Power of Four</li>
  <li>K smallest Elements In An Array</li>
+ <li>K Largest Elements In An Immutable Max-Heap</li>
  </ol>
  
 ### <b>Hard</b>
