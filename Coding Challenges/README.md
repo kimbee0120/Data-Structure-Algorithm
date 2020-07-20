@@ -27,6 +27,7 @@
  <li>Power of Four</li>
  <li>K smallest Elements In An Array</li>
  <li>K Largest Elements In An Immutable Max-Heap</li>
+ <li>Phone Number Mnemonics</li>
  </ol>
  
 ### <b>Hard</b>
