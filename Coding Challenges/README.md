@@ -19,6 +19,7 @@
  <li>Intersection of 2 Sorted Arrays</li>
  <li> Minimum Item In A Rotated Sorted Array</li>
  <li> Buy and Sell Stock Once</li>
+ <li>Number of Ways To Traverse A Matrix</li>
  </ol>
  
 ### <b>Medium</b>
