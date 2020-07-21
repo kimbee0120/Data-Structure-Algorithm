@@ -20,6 +20,7 @@
  <li> Minimum Item In A Rotated Sorted Array</li>
  <li> Buy and Sell Stock Once</li>
  <li>Number of Ways To Traverse A Matrix</li>
+ <li> Longest Palindrome Construction</li>
  </ol>
  
 ### <b>Medium</b>
