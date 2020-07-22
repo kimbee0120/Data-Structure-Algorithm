@@ -21,6 +21,7 @@
  <li> Buy and Sell Stock Once</li>
  <li>Number of Ways To Traverse A Matrix</li>
  <li> Longest Palindrome Construction</li>
+ <li> Nearest Repeated Entries In An Array<li>
  </ol>
  
 ### <b>Medium</b>
