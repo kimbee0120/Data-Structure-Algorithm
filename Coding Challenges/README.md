@@ -32,6 +32,7 @@
  <li>K Largest Elements In An Immutable Max-Heap</li>
  <li>Phone Number Mnemonics</li>
  <li>IP Address Restoration</li>
+ <li>Count Subarrays That Sum to K</li>
  </ol>
  
 ### <b>Hard</b>
