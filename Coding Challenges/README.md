@@ -36,6 +36,7 @@
  <li>Count Subarrays That Sum to K</li>
  <li>Longest Substring without Repeating Characters</li>
  <li>Swap Linked List Nodes In Pairs</li>
+ <li> Word Subsets </li>
  </ol>
  
 ### <b>Hard</b>
