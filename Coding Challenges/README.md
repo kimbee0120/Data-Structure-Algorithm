@@ -22,6 +22,7 @@
  <li>Number of Ways To Traverse A Matrix</li>
  <li> Longest Palindrome Construction</li>
  <li> Nearest Repeated Entries In An Array<li>
+ <li> Compute Buildings With A sunset view</li>
  </ol>
  
 ### <b>Medium</b>
