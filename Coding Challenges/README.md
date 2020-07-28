@@ -37,6 +37,7 @@
  <li>Longest Substring without Repeating Characters</li>
  <li>Swap Linked List Nodes In Pairs</li>
  <li> Word Subsets </li>
+ <li> Merge Sort</li>
  </ol>
  
 ### <b>Hard</b>
