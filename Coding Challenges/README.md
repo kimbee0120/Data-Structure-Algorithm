@@ -38,6 +38,7 @@
  <li>Swap Linked List Nodes In Pairs</li>
  <li> Word Subsets </li>
  <li> Merge Sort</li>
+ <li> Sort A K Sorted Array</li>
  </ol>
  
 ### <b>Hard</b>
