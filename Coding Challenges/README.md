@@ -23,6 +23,7 @@
  <li> Longest Palindrome Construction</li>
  <li> Nearest Repeated Entries In An Array<li>
  <li> Compute Buildings With A sunset view</li>
+ <li> Remove kth To Last Element</li>
  </ol>
  
 ### <b>Medium</b>
