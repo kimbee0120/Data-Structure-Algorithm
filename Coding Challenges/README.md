@@ -42,6 +42,7 @@
  <li> Merge Sort</li>
  <li> Sort A K Sorted Array</li>
  <li> Implement Text Editor Undo Redo</li>
+ <li> Generate The Powerset</li>
  </ol>
  
 ### <b>Hard</b>
