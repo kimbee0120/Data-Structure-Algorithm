@@ -1,10 +1,13 @@
 ## <b>Coding Challenges</b>
+
 ### <b>Contents</b>
+
 <li> Easy </li>
 <li> Medium</li>
 <li> Hard</li>
 
 ### <b>Easy</b>
+
  <ol>
  <li>Check If A Number is A Palindrome</li>
  <li>Reverse Bits</li>
@@ -43,12 +46,11 @@
  <li> Sort A K Sorted Array</li>
  <li> Implement Text Editor Undo Redo</li>
  <li> Generate The Powerset</li>
+ <li> Directory Access </li>
+
  </ol>
  
 ### <b>Hard</b>
 
-
 <br><br>
 Reference Leetcode and Back to Back SWE<br><b>Back to Back SWE</b> is really helpful with their awesome explanation of coding questions and deep algorithm understanding. I highly recommend
-
-
