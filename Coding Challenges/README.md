@@ -29,6 +29,7 @@
  <li> Remove kth To Last Element</li>
  <li> Binary Tree Level Order Traversal </li>
  <li> Erase Interval Overlaps </li>
+ <li> Minimum Weight Path In A Triangle</li>
  </ol>
  
 ### <b>Medium</b>
