@@ -50,6 +50,7 @@
  <li> Generate The Powerset</li>
  <li> Directory Access </li>
  <li> Testing For Cycles</li>
+ <li> Binary Tree Diameter </li>
 
  </ol>
  
