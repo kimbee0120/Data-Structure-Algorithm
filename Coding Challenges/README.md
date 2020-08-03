@@ -30,6 +30,7 @@
  <li> Binary Tree Level Order Traversal </li>
  <li> Erase Interval Overlaps </li>
  <li> Minimum Weight Path In A Triangle</li>
+ <li> Paint A Matrix </li>
  </ol>
  
 ### <b>Medium</b>
