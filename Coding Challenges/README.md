@@ -51,6 +51,7 @@
  <li> Directory Access </li>
  <li> Testing For Cycles</li>
  <li> Binary Tree Diameter </li>
+ <li> Check If A Graph Is Bipartite</li>
 
  </ol>
  
