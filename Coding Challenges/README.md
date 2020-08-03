@@ -31,6 +31,7 @@
  <li> Erase Interval Overlaps </li>
  <li> Minimum Weight Path In A Triangle</li>
  <li> Paint A Matrix </li>
+ <li> Keys and Rooms</li>
  </ol>
  
 ### <b>Medium</b>
