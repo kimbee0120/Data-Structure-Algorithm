@@ -32,6 +32,7 @@
  <li> Minimum Weight Path In A Triangle</li>
  <li> Paint A Matrix </li>
  <li> Keys and Rooms</li>
+ <li> Property </li>
  </ol>
  
 ### <b>Medium</b>
