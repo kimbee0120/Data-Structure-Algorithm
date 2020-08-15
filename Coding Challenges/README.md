@@ -33,6 +33,7 @@
  <li> Paint A Matrix </li>
  <li> Keys and Rooms</li>
  <li> Property </li>
+ <li> Add Strings</li>
  </ol>
  
 ### <b>Medium</b>
