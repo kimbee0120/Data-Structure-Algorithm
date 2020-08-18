@@ -58,6 +58,7 @@
  <li> Check If A Graph Is Bipartite</li>
  <li> Clone A Graph</li>
  <li> Inorder Traversal Without Recursive</li>
+ <li> The Change Making Problem</li>
 
  </ol>
  
