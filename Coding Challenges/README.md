@@ -34,6 +34,7 @@
  <li> Keys and Rooms</li>
  <li> Property </li>
  <li> Add Strings</li>
+ <li> Array Product</li>
  </ol>
  
 ### <b>Medium</b>
