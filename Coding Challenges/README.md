@@ -61,6 +61,7 @@
  <li> Inorder Traversal Without Recursive</li>
  <li> The Change Making Problem</li>
  <li> Decompose String</li>
+ <li> Decode Ways</li>
 
  </ol>
  
