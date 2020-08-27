@@ -38,6 +38,7 @@
  <li> Min Cost Climbing Stairs</li>
  <li> Is Subsequence </li>
  <li> Maximum Subarray</li>
+ <li> Range Sum Query - Immutable </li>
  </ol>
  
 ### <b>Medium</b>
