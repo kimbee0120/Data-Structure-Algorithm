@@ -40,6 +40,7 @@
  <li> Maximum Subarray</li>
  <li> Range Sum Query - Immutable </li>
  <li> House Robber </li>
+ <li> Climbing Stairs </li>
  </ol>
  
 ### <b>Medium</b>
