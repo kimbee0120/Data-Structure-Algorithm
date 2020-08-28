@@ -39,6 +39,7 @@
  <li> Is Subsequence </li>
  <li> Maximum Subarray</li>
  <li> Range Sum Query - Immutable </li>
+ <li> House Robber </li>
  </ol>
  
 ### <b>Medium</b>
