@@ -69,6 +69,7 @@
  <li> Decompose String</li>
  <li> Decode Ways</li>
  <li> Count Square Submatrices with All Ones </li>
+ <li> Counting Bits</li>
 
  </ol>
  
