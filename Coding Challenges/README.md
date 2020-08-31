@@ -68,6 +68,7 @@
  <li> The Change Making Problem</li>
  <li> Decompose String</li>
  <li> Decode Ways</li>
+ <li> Count Square Submatrices with All Ones </li>
 
  </ol>
  
